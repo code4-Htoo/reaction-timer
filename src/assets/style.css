@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid green;
+    color:green;
+    cursor:pointer;
+}
+
+.btn:disabled{
+    opacity: 0.2;
+    cursor: not-allowed;
+}
+
+.block{
+    width: 400px;
+    border-radius: 20px;
+    color: white;
+    background: #0faf87bd;
+    text-align: center;
+    padding: 100px 0;
+    margin: 40px auto;
+} 
+
+.score{
+margin-top: 50px;
+color: #2c3e50;
+}
+
+.rank{
+    color: #2c3e50;
+    font-size: 20px;
+    padding: 15px;
+}
