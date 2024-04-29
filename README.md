@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reaction-timer
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# reaction-timer
+>>>>>>> 106fab662905ffc3dc1741553eef0f6488e15281
